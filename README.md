@@ -22,6 +22,3 @@ This project offers a comprehensive exploratory data analysis and geospatial vis
 - geopandas  
 - matplotlib  
 - seaborn  
-
-Install with:
-pip install pandas geopandas matplotlib seaborn
