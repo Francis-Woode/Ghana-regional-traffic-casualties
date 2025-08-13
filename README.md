@@ -2,6 +2,12 @@
 This project offers a comprehensive exploratory data analysis and geospatial visualization of traffic casualties across Ghana’s regions (1991-2024). Using Python and libraries like Pandas, GeoPandas, Matplotlib, and Seaborn, the project turns raw CSV data into compelling visual insights spotlighting trends, correlations, and geographic disparities.
 
 ![image alt](https://github.com/Francis-Woode/Ghana-regional-traffic-casualties/blob/main/bar%20chart.png?raw=true)
+![image alt](https://github.com/Francis-Woode/Ghana-regional-traffic-casualties/blob/main/plot1.png?raw=true)
+![image alt](https://github.com/Francis-Woode/Ghana-regional-traffic-casualties/blob/main/plot2.png?raw=true)
+![image alt](https://github.com/Francis-Woode/Ghana-regional-traffic-casualties/blob/main/Histograms.png?raw=true)
+![image alt](https://github.com/Francis-Woode/Ghana-regional-traffic-casualties/blob/main/Correlation%20Heatmap.png?raw=true)
+![image alt](https://github.com/Francis-Woode/Ghana-regional-traffic-casualties/blob/main/Geo%20Map.png?raw=true)
+
 # Features
 - Clean and transform raw casualty data for analysis.
 - Chart year-by-year casualty trends across all regions.
